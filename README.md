@@ -24,15 +24,15 @@ Description: A node that enables intuitive filtering of messages received from t
 
 - **Only messages from Gateway/Modem** – Allows only messages originating from the Gateway/Modem itself.
 
-### Sensor Type
+#### Sensor Type
 
 Sensor type filtering – Enables filtering by sensor type (numerical value), allowing you to select messages from one or more sensors of the same type.
 
-### Mac Address
+#### Mac Address
 
 MAC address filtering – Filters messages based on the MAC address of the sensor, allowing only messages from a specific sensor to pass through.
 
-### Sensor Data Variables (Applicable only in messages within the 'Sensor Data' property)
+#### Sensor Data Variables (Applicable only in messages within the 'Sensor Data' property)
 
 Sensor Data Variables – Allows the flow of only specific field variables associated with the specified sensor.
 
