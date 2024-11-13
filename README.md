@@ -49,7 +49,7 @@ Description: A simple node that runs every second and attempts to establish a co
 Description: This node evaluates the state of the connection. If an active internet connection is detected, incoming messages flow through to the outgoing terminal. However, if the connection is lost (offline), incoming messages are routed through nodes that create a local database on the Enterprise IIoT Gateway. When the internet connection is reestablished, incoming data resumes flowing through the node without modification. Simultaneously, the locally stored data is sent through a second terminal every 0.5 seconds. Once all the data has been transmitted, the local database on the Enterprise IIoT Gateway is deleted.
 
 
-
-
+---
+© 2019-2024 National Control Devices, LLC. All rights reserved.
 
 
