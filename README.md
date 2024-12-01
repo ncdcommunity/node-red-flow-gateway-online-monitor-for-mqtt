@@ -6,6 +6,9 @@ A Node-RED flow that monitors the successful transmission of messages via MQTT o
 > 
 > ![ncd-gateway-online-monitor-for-mqtt-qos](https://github.com/user-attachments/assets/70e6de07-3569-4b61-b0f6-ccfce8f6f033)
 
+## Overview
+![ncd-online-monitor-for-mqtt-overview](https://github.com/user-attachments/assets/d4b47cbf-0c47-4dc2-a8e8-022735a501bd)
+
 
 ### Example flow:
 
