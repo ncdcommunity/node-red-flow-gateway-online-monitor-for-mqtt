@@ -1,9 +1,8 @@
-# node-red-flow-gateway-online-monitor
-A Node-RED flow that monitors the internet connection on the Enterprise IIoT Gateway. If the internet connection is lost, sensor data is stored locally. Once the connection is restored, the stored data is sent.
+# node-red-flow-gateway-online-monitor-for-mqtt
+A Node-RED flow that monitors the successful transmission of messages via MQTT on the Enterprise IIoT gateway. If a message fails to send—due to internet connectivity loss or disconnection from the MQTT broker—the sensor data is saved locally or at a user-defined location. Once the connection to the broker is restored, the stored data is transmitted and removed from local storage.
 
 Example flow:
 
-![ncd-online-monitor-and-data](https://github.com/user-attachments/assets/fb3e4e9d-9485-45b0-a607-15491e4f551f)
 
 
 ## Nodes
